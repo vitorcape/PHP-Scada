@@ -1,3 +1,12 @@
+# Supervisório
+
+https://php.vitorcape.com.br/scada/index.php
+
+👤 Usuário: admin@exemplo.com
+🔐 Senha: Admin@123
+
+---
+
 # SCADA Sim — Tanque de Processo T-01
 
 Sistema de supervisão e controle desenvolvido como projeto 1 da disciplina de Sistemas Embarcados no curso de Engenharia de Controle e Automação.
@@ -91,7 +100,7 @@ scada/
 
 Link do Wokwi: https://wokwi.com/projects/463566046296655873
 
----
+--
 
 ## Autor
 

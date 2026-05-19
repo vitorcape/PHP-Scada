@@ -24,7 +24,6 @@ Quando o nível cruza um limiar, um popup aparece no dashboard e um alarme é re
 | Potenciômetro | GPIO 35 | Nível do tanque (0–100%) |
 | Servo 1 | GPIO 26 | Válvula (0° fechada / 90° aberta) |
 | Servo 2 | GPIO 27 | Agitador (rotação contínua, velocidade variável) |
-| Botão vermelho | GPIO 32 | Toggle válvula (modo manual) |
 | OLED SSD1306 | I2C (SDA 22 / SCL 23) | Display local do ESP32 |
 
 ---
